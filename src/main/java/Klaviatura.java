@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class klaviatura {
+public class Klaviatura {
    private static int count;
    private static String out="";
    public static void main(String[] args) {
